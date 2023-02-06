@@ -1,0 +1,1 @@
+Códigos em SQL para consulta de informações utilizando a base de dados do PostgreSQL "dvd rental".
